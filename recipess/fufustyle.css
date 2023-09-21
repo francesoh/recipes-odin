@@ -1,0 +1,22 @@
+.h1 {
+    margin-left: 550px;
+}
+
+.chefmg {
+    margin-left: 300px;
+    padding-top: 20px;
+    padding-bottom:20px ;
+}
+
+.bodyy {
+    text-align: center;
+    max-width:800px;
+    margin-left: 290px;
+}
+
+.list li {
+    border: 3px solid black;
+    list-style-type: none;
+    display: inline-block;
+    margin:auto
+}
